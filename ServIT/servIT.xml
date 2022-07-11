@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServIT</name>
+    </assembly>
+    <members>
+        <member name="M:ServIT.Controllers.CategoryController.CreateCategories(ServIT.Data.DTO.Category.UpsertCategoryDTO)">
+            <summary>
+            Create a Category
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
